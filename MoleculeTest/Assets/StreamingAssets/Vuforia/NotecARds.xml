@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="lotsofchlorine" size="1.000000 1.027149" />
+    <ImageTarget name="MSG" size="1.000000 0.540052" />
+    <ImageTarget name="Caffeine" size="1.000000 0.921502" />
+    <ImageTarget name="C6H8BrCl" size="1.000000 0.966507" />
+    <ImageTarget name="AcetaminophenNotecard" size="6.500000 3.958848" />
+    <ImageTarget name="CombinationNotecard" size="10.000000 3.031860" />
+    <ImageTarget name="TriglycerideNotecard" size="10.000000 6.057495" />
+    <ImageTarget name="MethanolNotecard" size="10.000000 6.098563" />
+    <ImageTarget name="TestReaction3" size="10.000000 2.365591" />
+    <ImageTarget name="TestReaction2" size="10.000000 1.781818" />
+    <ImageTarget name="TestReaction" size="10.000000 29.514925" />
+    <ImageTarget name="GlycerolFront" size="1.000000 0.570621" />
+    <ImageTarget name="TriglycerideFront" size="1.000000 0.396396" />
+    <ImageTarget name="MethanolFront" size="1.000000 0.466346" />
+    <ImageTarget name="Plus" size="0.200000 0.206485" />
+    <ImageTarget name="Methanol2" size="0.200000 0.184298" />
+    <ImageTarget name="Methanol1" size="0.200000 0.118717" />
+    <ImageTarget name="Triglyceride" size="0.200000 0.140777" />
+    <ImageTarget name="Glycerol" size="0.200000 0.100893" />
+    <ImageTarget name="Cyclohexenev3" size="10.000000 10.585366" />
+    <ImageTarget name="Cyclohexanev3" size="10.000000 10.825243" />
+    <ImageTarget name="ASU" size="10.000000 6.214149" />
+    <ImageTarget name="Tetrachloro" size="10.000000 16.719999" />
+    <ImageTarget name="Cyclohaxane" size="0.300000 0.239252" />
+    <ImageTarget name="Acetaminophen" size="0.300000 0.195614" />
+  </Tracking>
+</QCARConfig>
